@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Programming (C++)\CW\CourseWork\Decrypter\Source.cpp(12,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Programming (C++)\CW\CourseWork\Decrypter\Source.cpp(53,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Programming (C++)\CW\CourseWork\Decrypter\Source.cpp(59,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Programming (C++)\CW\CourseWork\Decrypter\Source.cpp(91,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Programming (C++)\CW\CourseWork\Decrypter\Source.cpp(126,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Decrypter.vcxproj -> C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Programming (C++)\CW\CourseWork\Decrypter\x64\Debug\Decrypter.exe

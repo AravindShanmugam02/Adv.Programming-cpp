@@ -1,0 +1,6 @@
+﻿  Sheet1.cpp
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Programming (C++)\CW\CourseWork\Encrypter\Sheet1.cpp(70,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Programming (C++)\CW\CourseWork\Encrypter\Sheet1.cpp(213,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Programming (C++)\CW\CourseWork\Encrypter\Sheet1.cpp(435,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Programming (C++)\CW\CourseWork\Encrypter\Sheet1.cpp(176,17): warning C4101: 'c': unreferenced local variable
+  CourseWork.vcxproj -> C:\Users\Aravind Shanmugam\Downloads\#MINE#\Game Engineering\Adv.Programming (C++)\CW\CourseWork\Encrypter\x64\Debug\CourseWork.exe
