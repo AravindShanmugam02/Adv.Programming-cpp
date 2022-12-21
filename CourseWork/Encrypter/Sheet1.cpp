@@ -112,7 +112,8 @@ int main()
 	do
 	{
 		c.clrscr();
-		cout << "\t\t\t**********!!! WELCOME !!!**********\n\n\t\t\t1.Create User Record\n\t\t\t2.Validate User Credentials\n\t\t\t3.Generate Random Password File\n\t\t\t4.Exit :: ";
+		cout << "\t\t\t**********!!! WELCOME !!!**********"
+			<< "\n\n\t\t\t1.Create User Record" << "\n\t\t\t2.Validate User Credentials" << "\n\t\t\t3.Generate Random Password File\n\t\t\t4.Exit :: ";
 		cin >> main_menu_choice;
 
 		try
